@@ -1,1 +1,3 @@
 npm install @angular/cli
+
+/usr/libexec/s2i/assemble
